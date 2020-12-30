@@ -79,7 +79,12 @@ sections:
     background_color: gray
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
     align: center
     image_position: left
     has_background: false
