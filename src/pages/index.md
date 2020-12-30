@@ -80,7 +80,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
-    align: left
+    align: center
     image_position: left
     has_background: false
     background:
